@@ -1,0 +1,21 @@
+body{
+    background-color: #1d1b38;
+}   
+h1{
+    text-align: center;
+    font-size: 7rem;
+    color: #eebb4d;
+    font-family: 'Lobster', cursive;
+}
+.col-6{
+    margin-top: 5%;
+    color: #eebb4d;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+footer{
+    margin-top: 2%;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
